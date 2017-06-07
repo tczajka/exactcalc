@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+#settings {
+  margin: auto;
+}
+
+#expression {
+  display: block;
+  font-size: 150%;
+  margin: 10px auto;
+}
+
+#calculate {
+  font-size: 200%;
+}
+
+#digits {
+  width: 10em;
+}
+
+#base {
+  width: 4em;
+}
